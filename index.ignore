@@ -2,8 +2,8 @@
 
 
 
-
-
+/*
+ignore me
 
 
 <style>
@@ -438,4 +438,4 @@ color: #f2f2f2;
       dots[slideIndex-1].className += " active";
     }
     </script>
-
+*/
